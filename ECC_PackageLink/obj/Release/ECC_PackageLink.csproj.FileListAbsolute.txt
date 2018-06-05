@@ -1,0 +1,11 @@
+C:\Users\jstrese\documents\visual studio 2015\Projects\ECC_PackageLink\ECC_PackageLink\obj\Release\ECC_PackageLink.Properties.Resources.resources
+C:\Users\jstrese\documents\visual studio 2015\Projects\ECC_PackageLink\ECC_PackageLink\obj\Release\ECC_PackageLink.csproj.GenerateResource.Cache
+C:\Users\jstrese\documents\visual studio 2015\Projects\ECC_PackageLink\ECC_PackageLink\obj\Release\ECC_PackageLink.FormAdvanced.resources
+C:\Users\jstrese\documents\visual studio 2015\Projects\ECC_PackageLink\ECC_PackageLink\obj\Release\ECC_PackageLink.frmExport.resources
+C:\Users\jstrese\documents\visual studio 2015\Projects\ECC_PackageLink\ECC_PackageLink\obj\Release\ECC_PackageLink.frmImport.resources
+C:\Users\jstrese\documents\visual studio 2015\Projects\ECC_PackageLink\ECC_PackageLink\obj\Release\ECC_PackageLink.frmQuickResponse.resources
+C:\Users\jstrese\documents\visual studio 2015\Projects\ECC_PackageLink\ECC_PackageLink\bin\Release\ECC Helper.exe.config
+C:\Users\jstrese\documents\visual studio 2015\Projects\ECC_PackageLink\ECC_PackageLink\bin\Release\ECC Helper.exe
+C:\Users\jstrese\documents\visual studio 2015\Projects\ECC_PackageLink\ECC_PackageLink\bin\Release\ECC Helper.pdb
+C:\Users\jstrese\documents\visual studio 2015\Projects\ECC_PackageLink\ECC_PackageLink\obj\Release\ECC Helper.exe
+C:\Users\jstrese\documents\visual studio 2015\Projects\ECC_PackageLink\ECC_PackageLink\obj\Release\ECC Helper.pdb
